@@ -18,7 +18,6 @@ This project answers three business questions using pivot tables, charts, and cl
 ## 📂 Files Included
 - `Netflix_Data_Analysis_Fernando.xlsx`: Full workbook with formulas, visuals, and analysis
 - `Netflix_Dashboard_Fernando.pdf`: Clean printable PDF of dashboard
-<img width="1402" alt="Screenshot 2025-05-24 at 11 55 03 AM" src="https://github.com/user-attachments/assets/b79e87a5-ffb4-4196-9f1f-5fc585d5ea6d" />
 
 
 ## 📸 Preview
